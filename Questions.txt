@@ -1,0 +1,11 @@
+1. Number of participants of the study
+2. Average city development index
+3. Procenatege of city development index by group
+4. Relevent experience by gender
+5. Enrolled univeristy by gender
+6. Education level by gender
+7. Procentage of each gender
+8. Procentage of eperience by group
+9. Procentage of training hours by group
+10. Compnay size by experience
+11. Company type by experience
